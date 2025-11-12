@@ -2,8 +2,6 @@
 
 I employed KERAS' pretrained MobileNet CNN and fine-tuned it for our particular flood detection (image classification) task.
 
-NOTE: This code was inspired and modified from the following source: https://deeplizard.com/.
-
 "Flooding" images were collected by authors of the paper named "Detecting floodwater on roadways from image data with handcrafted features and deep transfer learning*", available at "https://arxiv.org/pdf/1909.00125.pdf".
 
 "No Flooding" images were collected from an automated google image search script.
